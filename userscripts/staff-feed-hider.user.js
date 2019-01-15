@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        StaffFeed: group-posts hider
 // @match     https://staff.skbkontur.ru/*
-// @version     0.1
+// @version     0.2
 // @updateURL http://www.reposit.ru/userscripts/staff-feed-hider.user.js
 // @run-at document-end
 // ==/UserScript==
