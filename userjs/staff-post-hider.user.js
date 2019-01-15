@@ -1,8 +1,11 @@
 // ==UserScript==
-// @name        StaffFeed: group-posts hider
-// @match     https://staff.skbkontur.ru/*
-// @version     0.1
-// @updateURL http://www.reposit.ru/userjs/staff-post-hider.user.js
+// @name         StaffFeed: group-posts hider
+// @description  Hide posts from general feed
+// @namespace    reposit.ru
+// @author       John Doe
+// @match        https://staff.skbkontur.ru/*
+// @version      0.1
+// @updateURL    http://www.reposit.ru/userjs/staff-post-hider.user.js
 // @run-at document-end
 // ==/UserScript==
 
