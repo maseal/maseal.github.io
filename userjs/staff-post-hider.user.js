@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         StaffFeed: group-posts hider
+// @name         Staff: Group posts hider
 // @description  Hide posts from general feed
 // @namespace    reposit.ru
 // @author       John Doe
