@@ -59,7 +59,7 @@ function hideSelectedPost(post)
         post.style.display = 'none';
     } else {
         var entry = post.querySelector("feed-entry-element island-card");
-        entry.style.maxHeight = '38px';
+        entry.style.maxHeight = '100px';
         entry.style.display = 'block';
         entry.style.boxSizing = 'initial';
         entry.style.opacity = '0.5';
